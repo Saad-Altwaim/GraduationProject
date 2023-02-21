@@ -1,5 +1,5 @@
 # QuickRecipe
-## _The Last Markdown Editor, Ever_
+
 ## App Description
 
 This app allows users to srearch Recipe by name or name And CookingTime (using spoonacular API ) 
