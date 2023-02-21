@@ -89,5 +89,3 @@ by cilck the build button in xcode .
 Xcode 14
 Swift 5.X
 
-## License
-It is generally a good practice to add license to your codebase, even if kept private.
