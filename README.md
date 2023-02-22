@@ -86,6 +86,10 @@ if the user pick any recipe he will see the recipe detailes here
 you build the  app, 
 by cilck the build button in xcode .
 
+## in case for Any app crashs
+please contact me on my Personal Mail 
+or you can rerun the App bluespeedy406@gmail.com
+
 ## Requirements
 Xcode 14
 Swift 5.X
